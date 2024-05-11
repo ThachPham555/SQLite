@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string-array name="category">
+        <item>Mua Sam</item>
+        <item>Tien an</item>
+        <item>Tien nha</item>
+        <item>Tien dien</item>
+        <item>Tien nuoc</item>
+        <item>Di lai</item>
+    </string-array>
+</resources>
